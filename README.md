@@ -5,9 +5,9 @@
 ### 🚀 [creative ui/ux / software developer]
 **Transforming complex problems into elegant, scalable digital solutions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([sahilchavan.free.nf])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](href=[sahilchavan-portfolio.vercel.app])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[sahilsbc751@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilchavan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilchavan-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsbc751@gmail.com)
 
 ---
 
@@ -24,8 +24,8 @@
 
 ## 📊 Engineering Impact
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[sahilchavan751]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sahilchavan751]&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilchavan751&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchavan751&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180px" />
 </div>
 
 ---
