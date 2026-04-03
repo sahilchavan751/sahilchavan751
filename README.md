@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20[SAHIL_CHAVAN]&fontSize=70&animation=fadeIn" width="100%" />
 
-### 🚀 [Your Role / e.g., Full-Stack Architect]
+### 🚀 [creative ui/ux / software developer]
 **Transforming complex problems into elegant, scalable digital solutions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([sahilchavan.free.nf])
